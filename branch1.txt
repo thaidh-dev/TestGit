@@ -2,8 +2,6 @@ Dương Hồng Thái
 
 file này chỉ có branch 1 được chơi thôi
 
-sửa để test git reset
-
 vừa code
 haha haha
 hhuuhuuhuh
