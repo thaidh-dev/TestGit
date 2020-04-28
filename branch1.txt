@@ -2,8 +2,9 @@ Dương Hồng Thái
 
 file này chỉ có branch 1 được chơi thôi
 alo alo
-vừa code
-haha haha
-hhuuhuuhuh
+
+test squash 1
+test squash 2.2
+test squash 3.3
 
 alo tôi nói đồng bào có nghe rõ không
