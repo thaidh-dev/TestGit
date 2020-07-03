@@ -3,5 +3,9 @@ file này là của branch 2
 
 cũng là vừa code
 
+<<<<<<< HEAD
 a
 b
+=======
+a
+>>>>>>> 142fdeffe4099170fdc83903b26a05ae6642f9bc
