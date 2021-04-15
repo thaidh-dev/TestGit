@@ -1,7 +1,7 @@
 Dương Hồng Thái
 
-file này chỉ có branch 1 được chơi thôi
-alo alo
+dm ảo thế nhở
+alo alo, lô con cặc
 
 test squash 1.1.1.1
 test squash 2.2.2.2
